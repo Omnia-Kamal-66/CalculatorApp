@@ -1,3 +1,1 @@
-# JavaScriptCodes22
-
-# this is practicing javaScript
+Course: https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
